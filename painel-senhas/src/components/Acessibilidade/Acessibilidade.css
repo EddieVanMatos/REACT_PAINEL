@@ -1,0 +1,33 @@
+.acessibilidade {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #4a90e2;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #357ab7;
+  }
+  
+  /* Estilos de alto contraste */
+  body.contraste-alto {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  body.contraste-alto button {
+    background-color: yellow;
+    color: black;
+  }
+  
+  body.contraste-alto a {
+    color: yellow;
+  }
+  

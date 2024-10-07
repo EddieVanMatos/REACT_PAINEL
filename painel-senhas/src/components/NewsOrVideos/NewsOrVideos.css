@@ -1,0 +1,22 @@
+.news-or-videos {
+    padding: 20px;
+  }
+  
+  .news-item {
+    margin-bottom: 15px;
+  }
+  
+  .news-item h3 {
+    font-size: 18px;
+    color: #4a90e2;
+  }
+  
+  .news-item p {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .news-item a {
+    color: #4caf50;
+  }
+  

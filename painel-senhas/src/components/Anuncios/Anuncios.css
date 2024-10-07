@@ -1,0 +1,27 @@
+.anuncios {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .anuncio {
+    text-align: center;
+  }
+  
+  .anuncio img {
+    max-width: 200px;
+    border-radius: 10px;
+  }
+  
+  .anuncio p {
+    margin-top: 10px;
+    color: #4a90e2;
+  }
+  

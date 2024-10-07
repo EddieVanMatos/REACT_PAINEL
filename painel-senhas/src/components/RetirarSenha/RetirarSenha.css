@@ -1,0 +1,24 @@
+.retirar-senha {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #388e3c;
+  }
+  
+  p {
+    margin-top: 15px;
+    font-size: 18px;
+    color: #333;
+  }
+  

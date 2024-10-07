@@ -1,0 +1,15 @@
+.info-empresa {
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+  }
+  
+  h2 {
+    color: #4a90e2;
+  }
+  
+  p {
+    margin: 10px 0;
+    color: #333;
+  }
+  
